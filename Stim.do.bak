@@ -1,0 +1,3 @@
+force A 0 0ps, 1 40ps, 0 {80ps} -repeat 120ps;
+force B 0 0ps, 1 {20ps} -repeat 40ps;
+
